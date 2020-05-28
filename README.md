@@ -1,2 +1,1 @@
-# sagame
-Game baccarat
+# react-sagame

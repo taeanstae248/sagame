@@ -1,0 +1,8 @@
+{
+  "appId": "com.ballthai.app",
+  "appName": "Ballthai",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
