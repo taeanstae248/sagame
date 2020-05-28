@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ballthai</string>
+    <string name="title_activity_main">Ballthai</string>
+    <string name="package_name">com.ballthai.app</string>
+    <string name="custom_url_scheme">com.ballthai.app</string>
+</resources>
